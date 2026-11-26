@@ -103,13 +103,12 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) – Full curriculum on HTML, CSS, and design.
 - [Coursera Web Design Courses](https://www.coursera.org/courses?query=web%20design) – University-led design learning.
-- [Frontend Masters – Web Design for Developers](https://frontendmasters.com/courses/web-design/) – Design fundamentals for devs.
-
+- [Swavent Guides](https://swavent.com/en/guides) – Free guides on Shopify, ecommerce, SEO and web development guides.
+  
 ## Communities
 
 - [r/web_design](https://www.reddit.com/r/web_design/) – Reddit community for web design discussions.
 - [Designer Hangout](https://designerhangout.co/) – Invite-only Slack community for UX/UI pros.
-- [Spectrum – Design](https://spectrum.chat/design) – Discussions about design tools and trends.
 
 ## Books
 
