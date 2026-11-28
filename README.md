@@ -91,6 +91,7 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 - [Sketch](https://www.sketch.com/) – Vector-based design tool for macOS.
 - [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and prototyping.
 - [Penpot](https://penpot.app/) – Open-source design and prototyping platform.
+- [MotionSites](https://motionsites.dev/) – Ready-to-use AI website prompts, templates, and developer workflows for building polished websites with AI coding tools.
 
 ## Web Design Frameworks
 
